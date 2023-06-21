@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Fatih/Documents/Unreal Projects/MyProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Fatih/Documents/Unreal Projects/MyProject/Content/Project1.umap",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Materials/HLOD/HLODWater.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Water_Material_River.uasset",
+				"C:/Program Files/Epic Games/UE_5.2/Engine/Plugins/Experimental/Water/Content/Materials/WaterSurface/Transitions/Water_Material_River_To_Lake_Transition.uasset",
+				"C:/Users/Fatih/Documents/Unreal Projects/MyProject/Content/StarterContent/Materials/NewNiagaraEmitter_System.uasset",
+				"C:/Users/Fatih/Documents/Unreal Projects/MyProject/Content/StarterContent/Materials/NewNiagaraEmitter.uasset"
+			]
+		}
+	]
+}
